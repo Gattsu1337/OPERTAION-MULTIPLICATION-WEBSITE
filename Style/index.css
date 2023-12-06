@@ -1,0 +1,61 @@
+
+.content {
+  max-width: 95%;
+  margin: auto;
+  background-color: #33415c;
+  border-radius: 30px;
+  height: 95vh;
+  margin-bottom: 3vh;
+}
+
+.left, .right {
+  float: left;
+  width: 49.85%;
+  color: white;
+}
+
+.left .one {
+  margin: 150px 0 0 160px;
+  font-size: 82px;
+  font-weight: bold;
+  text-shadow: 4px 4px black;
+}
+
+.left .two {
+  margin: 0 0 20px 160px;
+  font-size: 72px;
+  font-weight: bold;
+  text-shadow: 4px 4px black;
+}
+
+.left .tree {
+  margin-left: 160px;
+  margin-bottom: 40px;
+  line-height: 30px;
+  font-size: 20px;
+  text-shadow: 2px 2px black;
+}
+
+.left .button {
+  float: left;
+  border: 1px solid white;
+  padding: 15px 40px 15px 40px;
+  border-radius: 5px;
+  margin-left: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  transition: 0.2s;
+  font-weight: bold;
+}
+
+.left .button:hover {
+  background-color: #564fff;
+  transition: 0.2s;
+  border: 1px solid #564fff;
+  text-shadow: 2px 2px black;
+}
+
+.right{
+  margin-top: 2vh;
+}
